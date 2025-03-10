@@ -23,8 +23,12 @@ The project consists of the following files:
     . Property Price trends Over time
     
     . Relationships between price,bed and bath
+ 
+    ![image]
+ 
+    ![image] 
     
-    https://github.com/krishna1015/Australian-Housing-Project-Excel-project/blob/main/Picture1.png?raw=true
+    ![image](https://github.com/krishna1015/Australian-Housing-Project-Excel-project/blob/main/housing%20dashboard%20.png?raw=true)
     
 
 📊 How to Use
