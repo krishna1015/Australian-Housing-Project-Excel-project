@@ -24,7 +24,7 @@ The project consists of the following files:
     
     . Relationships between price,bed and bath
  
-    ![image]
+    ![image](https://github.com/krishna1015/Australian-Housing-Project-Excel-project/blob/main/Picture1.png)
  
     ![image] 
     
