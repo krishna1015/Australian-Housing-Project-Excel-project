@@ -26,7 +26,7 @@ The project consists of the following files:
  
     ![image](https://github.com/krishna1015/Australian-Housing-Project-Excel-project/blob/main/Picture1.png)
  
-    ![image] 
+    ![image](https://github.com/krishna1015/Australian-Housing-Project-Excel-project/blob/main/Picture2.png)
     
     ![image](https://github.com/krishna1015/Australian-Housing-Project-Excel-project/blob/main/housing%20dashboard%20.png?raw=true)
     
@@ -46,7 +46,8 @@ To get started with this project, follow these steps:
 - Utilize the **Dashboard** for a high-level overview of the housing market trends.
 
 🤝 Contribution
-Contributions are welcome! If you have suggestions for improvements or additional analyses, please feel free to submit a pull request.
+
+Contributions are welcome! If you have suggestions for improvements or additional analyses, please feel free to submit a request.
 
 ## Acknowledgments
 - Thank you to all contributors and data sources that made this project possible.
